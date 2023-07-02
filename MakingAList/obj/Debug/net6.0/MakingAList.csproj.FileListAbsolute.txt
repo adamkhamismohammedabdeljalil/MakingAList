@@ -1,0 +1,15 @@
+C:\Users\ADAM K\source\repos\MakingAList\MakingAList\bin\Debug\net6.0\MakingAList.exe
+C:\Users\ADAM K\source\repos\MakingAList\MakingAList\bin\Debug\net6.0\MakingAList.deps.json
+C:\Users\ADAM K\source\repos\MakingAList\MakingAList\bin\Debug\net6.0\MakingAList.runtimeconfig.json
+C:\Users\ADAM K\source\repos\MakingAList\MakingAList\bin\Debug\net6.0\MakingAList.dll
+C:\Users\ADAM K\source\repos\MakingAList\MakingAList\bin\Debug\net6.0\MakingAList.pdb
+C:\Users\ADAM K\source\repos\MakingAList\MakingAList\obj\Debug\net6.0\MakingAList.csproj.AssemblyReference.cache
+C:\Users\ADAM K\source\repos\MakingAList\MakingAList\obj\Debug\net6.0\MakingAList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADAM K\source\repos\MakingAList\MakingAList\obj\Debug\net6.0\MakingAList.AssemblyInfoInputs.cache
+C:\Users\ADAM K\source\repos\MakingAList\MakingAList\obj\Debug\net6.0\MakingAList.AssemblyInfo.cs
+C:\Users\ADAM K\source\repos\MakingAList\MakingAList\obj\Debug\net6.0\MakingAList.csproj.CoreCompileInputs.cache
+C:\Users\ADAM K\source\repos\MakingAList\MakingAList\obj\Debug\net6.0\MakingAList.dll
+C:\Users\ADAM K\source\repos\MakingAList\MakingAList\obj\Debug\net6.0\refint\MakingAList.dll
+C:\Users\ADAM K\source\repos\MakingAList\MakingAList\obj\Debug\net6.0\MakingAList.pdb
+C:\Users\ADAM K\source\repos\MakingAList\MakingAList\obj\Debug\net6.0\MakingAList.genruntimeconfig.cache
+C:\Users\ADAM K\source\repos\MakingAList\MakingAList\obj\Debug\net6.0\ref\MakingAList.dll
